@@ -5,9 +5,16 @@
 
 ### Hi there 👋, Sumit Kumar
 #### App Design and Development.
-![App Design and Development.](https://drive.google.com/file/d/1gOiLqMCJ2S3x1kEw6PeG-u4okTdkiuk0/view?usp=sharing)
+![App Design and Development.](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
 
 
 Skills: Flutter/ Dart / Java/ Firebase
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
