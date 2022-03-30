@@ -12,7 +12,7 @@ Skills: Flutter/ Dart / Java/ Firebase
 
 
 - 🔭 I’m currently working on  :-
-- Signal Clone Using React Native and aws amplify as backend.
+⚛️ Signal Clone Using React Native and aws amplify as backend.
 
 
 
